@@ -3,6 +3,10 @@
  *  @version : 1.0
 */
 
+/*
+ *1102046 傅昱瑄
+*/
+
 #include "stdafx.h"
 #include <cstdlib>
 #include <iostream>
