@@ -3,6 +3,9 @@
  *  @version : 1.0
 */
 
+/*
+ *1102016陳宥瑜
+ */
 #include "stdafx.h"
 #include <cstdlib>
 #include <iostream>
