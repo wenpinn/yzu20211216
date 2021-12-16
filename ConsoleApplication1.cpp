@@ -1,6 +1,6 @@
 /*
- *  @author : wen-pinn fang <wpfang@saturn.yzu.edu.tw>
- *  @version : 1.0
+ *  @author : s1102025林成翰
+ *  @version : 1.1.17
 */
 
 #include "stdafx.h"
