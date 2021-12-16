@@ -2,7 +2,9 @@
  *  @author : wen-pinn fang <wpfang@saturn.yzu.edu.tw>
  *  @version : 1.0
 */
-
+/*
+ s1102001 沈羿伶
+*/
 #include "stdafx.h"
 #include <cstdlib>
 #include <iostream>
