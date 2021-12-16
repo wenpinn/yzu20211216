@@ -3,6 +3,10 @@
  *  @version : 1.0
 */
 
+/*
+ *  @author : DaynaLin <s1102008@mail.yzu.edu.tw>
+*/
+
 #include "stdafx.h"
 #include <cstdlib>
 #include <iostream>
