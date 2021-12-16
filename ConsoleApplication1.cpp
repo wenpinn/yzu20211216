@@ -1,5 +1,7 @@
-﻿// ConsoleApplication1.cpp : 定義主控台應用程式的進入點。
-//
+/*
+ *  @author : wen-pinn fang <wpfang@saturn.yzu.edu.tw>
+ *  @version : 1.0
+*/
 
 #include "stdafx.h"
 #include <cstdlib>
